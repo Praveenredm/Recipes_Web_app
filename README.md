@@ -74,22 +74,17 @@ Blue labs/
 
 ### Installation
 
-1. **Navigate to the project directory**:
-   ```bash
-   cd "c:\Users\ASUS\Desktop\all apps\2026\Blue labs"
-   ```
-
-2. **Install dependencies** (already done):
+1. **Install dependencies** (already done):
    ```bash
    npm install
    ```
 
-3. **Start the development server**:
+2. **Start the development server**:
    ```bash
    npm run dev
    ```
 
-4. **Open your browser** and navigate to:
+3. **Open your browser** and navigate to:
    ```
    http://localhost:5173/
    ```
@@ -182,27 +177,6 @@ All API calls are centralized in `src/services/api.js` with proper error handlin
 - Consistent spacing and typography
 - Accessible color contrast
 - Modern card-based layout
-
-## 🧪 Code Quality
-
-### Best Practices Implemented
-✅ **Clean Architecture** - Separation of concerns (components, pages, services)  
-✅ **Reusable Components** - DRY principle throughout  
-✅ **Error Handling** - Graceful error states with retry  
-✅ **Loading States** - Skeleton loaders for better UX  
-✅ **Responsive Design** - Mobile-first approach  
-✅ **Accessibility** - Semantic HTML, ARIA labels  
-✅ **Performance** - Debounced search, lazy loading  
-✅ **State Management** - React hooks (useState, useEffect, useContext)  
-✅ **Routing** - React Router for navigation  
-✅ **Code Comments** - JSDoc comments for API functions  
-
-## 🌐 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
 ## 📝 Notes
 
