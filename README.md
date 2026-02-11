@@ -1,4 +1,4 @@
-# 🍳 Recipes Web App
+#  Recipes Web App
 
 A production-ready React application built with Vite, React, and Tailwind CSS that displays delicious recipes from around the world.
 
