@@ -13,7 +13,7 @@ A production-ready React application built with Vite, React, and Tailwind CSS th
 - ⚡ **Loading States** - Skeleton loaders for better perceived performance
 - ❌ **Error Handling** - Graceful error states with retry functionality
 - 🎨 **Modern UI** - Clean design with hover effects and smooth animations
-
+  
 ### Bonus Features
 - Skeleton card loaders during data fetching
 - Search query debouncing for performance
